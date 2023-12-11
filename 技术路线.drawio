@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:52:19.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="24Cg7W4TM2Z8n8ANvh0n" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:54:53.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="sqq1lvH_-jxrnm6MRfEo" version="22.1.7" type="github">
   <diagram name="第 1 页" id="3DLmhqvNEGKwdh4Kj9e7">
-    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q4kZ703Dppg0LJKYkS-L-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;shadow=1;strokeColor=#330000;fillColor=#E6FFCC;gradientColor=#e8feba;gradientDirection=south;opacity=80;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="780" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="q4kZ703Dppg0LJKYkS-L-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#E6FFCC;opacity=50;" parent="1" vertex="1">
+        <mxCell id="q4kZ703Dppg0LJKYkS-L-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="195" y="85" width="315" height="65" as="geometry" />
         </mxCell>
         <mxCell id="q4kZ703Dppg0LJKYkS-L-2" value="遥感影像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="100" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q4kZ703Dppg0LJKYkS-L-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#E6FFCC;opacity=50;" parent="1" vertex="1">
+        <mxCell id="q4kZ703Dppg0LJKYkS-L-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="620" y="85" width="320" height="65" as="geometry" />
         </mxCell>
         <mxCell id="q4kZ703Dppg0LJKYkS-L-3" value="纹理数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
@@ -61,14 +61,32 @@
         <mxCell id="BNwJUvH9618CSP2P_LMe-3" value="照&amp;nbsp; 片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-13" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="815" y="290" width="110" height="129.5" as="geometry" />
+        </mxCell>
         <mxCell id="BNwJUvH9618CSP2P_LMe-4" value="建筑轮廓数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="800" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="825" y="310.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNwJUvH9618CSP2P_LMe-5" value="城市路网数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="800" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="825" y="370.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNwJUvH9618CSP2P_LMe-6" value="规则文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="800" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="825" y="500.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-12" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="284" width="110" height="129.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-7" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="303" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-8" value="UE5 地形编辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="500.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-9" value="GlobalMapper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BNwJUvH9618CSP2P_LMe-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380.5" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
